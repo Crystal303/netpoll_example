@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20b4d990-7445-436b-82d9-6b2de571892b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="develop" />
+                    <option name="lastUsedInstant" value="1626430539" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vO4VlkDqGJ1R91RNV6OJcTqX8E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build github.com/Crystal303/netpoll_example/client">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="netpoll_example" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/Crystal303/netpoll_example" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="netpoll_example" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/Crystal303/netpoll_example" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/Crystal303/netpoll_example/client" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="netpoll_example" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/client/main.go" />
+      <package value="github.com/Crystal303/netpoll_example/client" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/Crystal303/netpoll_example/server" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="netpoll_example" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/server/main.go" />
+      <package value="github.com/Crystal303/netpoll_example/server" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="netpoll_example" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/Crystal303/netpoll_example/client" />
+        <item itemvalue="Go Build.go build github.com/Crystal303/netpoll_example/server" />
+        <item itemvalue="Go Build.go build github.com/Crystal303/netpoll_example" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20b4d990-7445-436b-82d9-6b2de571892b" name="Default Changelist" comment="" />
+      <created>1626419826194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626419826194</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="148" key="GridCell.Tab.0.bottom" timestamp="1626429776908">
+      <screen x="46" y="23" width="1234" height="777" />
+    </state>
+    <state width="1238" height="148" key="GridCell.Tab.0.bottom/0.0.1280.800/-328.-1080.1920.1080@0.0.1280.800" timestamp="1626421918946" />
+    <state width="1238" height="148" key="GridCell.Tab.0.bottom/46.23.1234.777/-328.-1080.1920.1080@46.23.1234.777" timestamp="1626429776908" />
+    <state width="1238" height="148" key="GridCell.Tab.0.center" timestamp="1626429776906">
+      <screen x="46" y="23" width="1234" height="777" />
+    </state>
+    <state width="1238" height="148" key="GridCell.Tab.0.center/0.0.1280.800/-328.-1080.1920.1080@0.0.1280.800" timestamp="1626421918943" />
+    <state width="1238" height="148" key="GridCell.Tab.0.center/46.23.1234.777/-328.-1080.1920.1080@46.23.1234.777" timestamp="1626429776906" />
+    <state width="1238" height="148" key="GridCell.Tab.0.left" timestamp="1626429776905">
+      <screen x="46" y="23" width="1234" height="777" />
+    </state>
+    <state width="1238" height="148" key="GridCell.Tab.0.left/0.0.1280.800/-328.-1080.1920.1080@0.0.1280.800" timestamp="1626421918942" />
+    <state width="1238" height="148" key="GridCell.Tab.0.left/46.23.1234.777/-328.-1080.1920.1080@46.23.1234.777" timestamp="1626429776905" />
+    <state width="1238" height="148" key="GridCell.Tab.0.right" timestamp="1626429776907">
+      <screen x="46" y="23" width="1234" height="777" />
+    </state>
+    <state width="1238" height="148" key="GridCell.Tab.0.right/0.0.1280.800/-328.-1080.1920.1080@0.0.1280.800" timestamp="1626421918945" />
+    <state width="1238" height="148" key="GridCell.Tab.0.right/46.23.1234.777/-328.-1080.1920.1080@46.23.1234.777" timestamp="1626429776907" />
+    <state x="141" y="-901" key="SettingsEditor" timestamp="1626420099892">
+      <screen x="-328" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="141" y="-901" key="SettingsEditor/0.23.1280.777/-328.-1080.1920.1080@-328.-1080.1920.1080" timestamp="1626420099892" />
+  </component>
+</project>
